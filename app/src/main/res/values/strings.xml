@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AlmacenMexico</string>
+    <string name="inicar">Iniciar sesión</string>
+    <string name="hindUsuario">Usuario</string>
+    <string name="hindIngresar">Ingresar usuario</string>
+    <string name="hindcontra">Contraseña</string>
+    <string name="hindIngreC">Ingresa contraseña</string>
+    <string name="acceder">Ingresar</string>
+    <string name="app">Versión 1.0</string>
+    <string name="conexion">Modo de conexón</string>
+    <string name="guardar">Guardar</string>
+
+    <string name="redLocal">Red local</string>
+    <string name="redExterna">Red externa</string>
+    <string name="pruebas">Pruebas</string>
+    <string name="titleGeneric">Titulo Generico</string>
+    <string name="subtitle">Aqui se colocara el subtitulo para describir el motivo de la alerta</string>
+</resources>

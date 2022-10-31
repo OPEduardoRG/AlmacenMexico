@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="btnGreen" parent="Widget.MaterialComponents.Button">
+        <item name="android:textStyle">bold</item>
+        <item name="backgroundTint">@color/white</item>
+    </style>
+
+    <style name="Buttonenabled" parent="Widget.MaterialComponents.Button">
+        <item name="android:background">@style/btnGreen</item>
+        <item name="android:textColor">@color/primary_color</item>
+        <item name="android:enabled">true</item>
+        <item name="android:alpha">0.10</item>
+    </style>
+
+    <style name="ButtonDisabled" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:background">@style/btnGreen</item>
+        <item name="android:textColor">@color/red_granate</item>
+        <item name="android:enabled">true</item>
+        <item name="android:alpha">0.10</item>
+    </style>
+</resources>
