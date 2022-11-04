@@ -15,4 +15,9 @@
     <string name="pruebas">Pruebas</string>
     <string name="titleGeneric">Titulo Generico</string>
     <string name="subtitle">Aqui se colocara el subtitulo para describir el motivo de la alerta</string>
+
+
+<!--    Cadenas de Dashboard actyivity-->
+    <string name="bienvenido">BIENVENIDO</string>
+    <string name="txtNombre">Nombre usuario</string>
 </resources>

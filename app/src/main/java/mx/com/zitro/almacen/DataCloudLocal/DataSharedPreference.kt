@@ -51,4 +51,8 @@ class DataSharedPreference(context: Context) {
         editor.clear()
         editor.commit()
     }
+
+    fun getInicioLogin(): String? {return sharedPref.getString(PREF_LOGIN_INICIO,"false")}
+
+    fun getUsu(): String?{ return sharedPref.getString(PREF_USU, null)}
 }
